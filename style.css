@@ -3,3 +3,11 @@ height: 300px;
 width: 400px;
 border: 10px dashed blue;
 }
+table {
+    border: solid 1px violet;
+}
+
+th, td {
+    border: solid 1px rgb(52, 9, 241);
+
+}
